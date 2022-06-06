@@ -14,6 +14,24 @@ Write the function in `index.js` file and also write the test in `index.test.js`
 
 - Create a function called `getCircumfrence`:
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Pass the radius of a circle to the function and it returns the circumference based on the radius, and output `The circumference is NN`.
 
 - Create a function called `getArea`:
