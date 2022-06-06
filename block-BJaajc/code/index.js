@@ -18,10 +18,4 @@ function getArea( r){
     return `The area is ${area}`
 }
 
-
-
-
-module.exports = {fullName,isPalindrome,getCircumfrence,getArea};
-
-
-
+// module.exports = {fullName};

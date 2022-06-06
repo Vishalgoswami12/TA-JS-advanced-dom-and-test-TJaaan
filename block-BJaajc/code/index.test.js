@@ -1,4 +1,5 @@
-const index = require('./index');
+// const index = require('./index');
+console.log(" this is to  be function ",index.fullName);
 
 // For full Name check
 test('if full Name is correct', () => {
